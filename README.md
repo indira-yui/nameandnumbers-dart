@@ -40,6 +40,7 @@ void main() {
 </p></br>
 
 <li> Explanation of code above: </li></p>
+
 1. Import 'dart:io':
    Baris pertama pada kode tersebut mengimpor pustaka dart:io, yang digunakan untuk berinteraksi dengan input/output (I/O) di dalam program.
 
@@ -95,8 +96,8 @@ void main() {
     Tutup blok while-loop.
 </br></p>
 
-<li> Output: </li></p><br>
-![Weird](pictures/Ganjil.png)</p> </br>
+Output:
+![Weird](pictures/Ganjil.png)
 
 
 2. Name and Value of Even Number Loop </p></br>
@@ -128,6 +129,7 @@ void main() {
 </br></p>
 
 <li> Explanation of code above: </li></p>
+
 1. Import 'dart:io':
    Baris pertama pada kode tersebut mengimpor pustaka dart:io, yang digunakan untuk berinteraksi dengan input/output (I/O) di dalam program.
 
@@ -172,6 +174,5 @@ void main() {
 
 </p></br>
 
-
-<li> Output: </li></p><br>
+Output:
 ![Even Numbers](pictures/Genap.png)
