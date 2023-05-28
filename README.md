@@ -96,7 +96,8 @@ void main() {
     Tutup blok while-loop.
 </br></p>
 
-Output:
+<li> Output: </li></p><br>
+
 ![Weird](pictures/Ganjil.png)
 
 
@@ -174,5 +175,6 @@ void main() {
 
 </p></br>
 
-Output:
+<li> Output: </li></p><br>
+
 ![Even Numbers](pictures/Genap.png)
